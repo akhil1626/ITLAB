@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<userlist>
+
+    <user>
+        <userid>21031F0006</userid>
+        <Name>MARUTHI</Name>
+        <gender>Male</gender>
+        <contact>8499020762</contact>
+        <address>Telangana</address>
+    </user>
+
+
+    <user>
+        <userid>21031F0007</userid>
+        <Name>SRK</Name>
+        <gender>Male</gender>
+        <contact>8499020762</contact>
+        <address>TamilNadu</address>
+    </user>
+
+    <user>
+        <userid>21031F0011</userid>
+        <Name>ADITHYA</Name>
+        <gender>Female</gender>
+        <contact>8975461463</contact>
+        <address>Kerala</address>
+    </user>
+
+    <user>
+        <userid>21031F0017</userid>
+        <Name>AKHIL</Name>
+        <gender>Male</gender>
+        <contact>9456471463</contact>
+        <address>Telangana</address>
+    </user>
+
+    <user>
+        <userid>21031F0018</userid>
+        <Name>rakesh</Name>
+        <gender>Male</gender>
+        <contact>9463147897</contact>
+        <address>UttarPradesh</address>
+    </user>
+
+    <user>
+        <userid>21031F0019</userid>
+        <Name>SANGA</Name>
+        <gender>Male</gender>
+        <contact>9463147897</contact>
+        <address>UttarPradesh</address>
+    </user>
+
+    <user>
+        <userid>YADI</userid>
+        <Name>Ram</Name>
+        <gender>Male</gender>
+        <contact>9463147897</contact>
+        <address>UttarPradesh</address>
+    </user>
+
+    <user>
+        <userid>21031F0024</userid>
+        <Name>SAI</Name>
+        <gender>Male</gender>
+        <contact>9463147897</contact>
+        <address>UttarPradesh</address>
+    </user>
+
+    <user>
+        <userid>21031F005</userid>
+        <Name>NAGA PRASANNA KUMAR</Name>
+        <gender>Male</gender>
+        <contact>9463147897</contact>
+        <address>UttarPradesh</address>
+    </user>
+
+    <user>
+        <userid>21031F0026</userid>
+        <Name>NIKHIL</Name>
+        <gender>Male</gender>
+        <contact>9463147897</contact>
+        <address>UttarPradesh</address>
+    </user>
+
+
+</userlist>
